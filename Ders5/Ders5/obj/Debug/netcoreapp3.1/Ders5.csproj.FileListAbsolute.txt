@@ -1,0 +1,17 @@
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.Form1.resources
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.csproj.GenerateResource.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.AssemblyInfoInputs.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.AssemblyInfo.cs
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.csproj.CoreCompileInputs.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.exe
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.deps.json
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.runtimeconfig.json
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.runtimeconfig.dev.json
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.dll
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.pdb
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.dll
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.pdb
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.genruntimeconfig.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.Properties.Resources.resources
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.csproj.AssemblyReference.cache
+C:\Users\Eda\Desktop\YAZILIMA_BAŞLANGIÇ\C#_Form_Uygulamaları\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.GeneratedMSBuildEditorConfig.editorconfig
